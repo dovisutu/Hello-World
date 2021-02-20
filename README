@@ -1,1 +1,6 @@
-Hello World!
+# Hello World!
+A place where tests and attempts are made in order to interact with github api.
+
+I chose to fork octocat/Hello-World since it provides access to cross-fork operations rather than creating my own repo.
+
+> This is also part of changes made in order to really test Pull Requests.
